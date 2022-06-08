@@ -1,0 +1,11 @@
+.back-button-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.back-button-container .anticon {
+    margin-right: 10px;
+}

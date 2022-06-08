@@ -1,0 +1,9 @@
+.container {
+    max-width: 1190px;
+    margin: 45px auto;
+    opacity: 1;
+    width: 100%;
+}
+.main-container {
+    min-height: 100vh;
+}
